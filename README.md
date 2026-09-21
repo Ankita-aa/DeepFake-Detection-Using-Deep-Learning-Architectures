@@ -84,8 +84,3 @@ This project involves the development of a Deepfake Images Detector by implement
 ### 📢 **Conclusion**
 
 Out of the three models developed, the Xception model performed best with an accuracy score of 0.6896 or 68.96% along with a minimal loss of 0.5873. 
-
-### ✒️ **Your Signature**
-
-Contributed by: Fathima Zulaikha 
-* Github: <a href="https://github.com/zul132">zul132</a>
